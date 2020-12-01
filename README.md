@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Dima and I do some programming tasks almost every day.   
+My name is Dima and I do some programming tasks almost every day.     
+
 📝 [Blog](https://dpursanov.medium.com/) Posts   
 * [Privileges for only specific stored procedures in MySQL/MariaDB](https://dpursanov.medium.com/privileges-for-only-specific-stored-procedures-in-mysql-mariadb-5473a8c319d0)     
 * [TIP: Open directory you found in Everything with Total Commander](https://dpursanov.medium.com/tip-open-directory-you-found-in-everything-with-total-commander-9e39deadd04c)
