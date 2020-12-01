@@ -9,7 +9,7 @@ My name is Dima and I do some programming tasks almost every day.
 
 
 ------
-👷‍♂️[Portfolio](https://www.linkedin.com/in/dima-pursanov/)
+👷‍♂️ [Portfolio](https://www.linkedin.com/in/dima-pursanov/)
 
 
 <!--
