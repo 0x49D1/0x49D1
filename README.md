@@ -2,8 +2,10 @@
 My name is Dima and I do some programming tasks almost every day.     
 
 📝 [Blog](https://dpursanov.medium.com/) Posts   
+* [How Indexing Works in MariaDB and Why It Helps with Optimization](https://medium.com/@dpursanov/how-indexing-works-in-mariadb-and-why-it-helps-with-optimization-58b098c82d56)
 * [Privileges for only specific stored procedures in MySQL/MariaDB](https://dpursanov.medium.com/privileges-for-only-specific-stored-procedures-in-mysql-mariadb-5473a8c319d0)     
 * [TIP: Open directory you found in Everything with Total Commander](https://dpursanov.medium.com/tip-open-directory-you-found-in-everything-with-total-commander-9e39deadd04c)
+* [TIP: Structured logging with NLog 5 for ELK stack](https://medium.com/@dpursanov/structured-logging-with-nlog-5-for-elk-stack-97416902e4b0)
 * [And more ....](https://dpursanov.medium.com/)   
 
 
