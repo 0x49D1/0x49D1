@@ -12,7 +12,11 @@ Posts
 
 📺 [Telegram Channel](https://t.me/x4516)   
 
-
+## 🛠️ Skills & Technologies
+- **Databases**: MariaDB, MySQL
+- **Logging**: NLog, ELK Stack  
+- **Development**: Structured Programming, Database Optimization
+- **Tools**: Total Commander, Everything Search
 
 ------
 👷‍♂️ [Portfolio](https://www.linkedin.com/in/dima-pursanov/)
